@@ -1,0 +1,3 @@
+
+minimapMagnifier
+minimapMagnifier.jar,core.jar
